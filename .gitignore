@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+samples/Cpp
+samples/CSharp
+samples/DdeSocketBridge
+samples/Excel
+samples/Java
+samples/VB
+source/CppClient
+souce/CSharpClient
+source/JavaClient
+tests/
+
